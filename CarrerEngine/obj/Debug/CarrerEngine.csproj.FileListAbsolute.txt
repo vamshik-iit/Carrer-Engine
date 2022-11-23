@@ -1,0 +1,546 @@
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\CarrerEngine.dll.config
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\CarrerEngine.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\CarrerEngine.pdb
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\csc.exe
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\csc.exe.config
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\csc.rsp
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\csi.exe
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\csi.exe.config
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\csi.rsp
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.AppContext.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Collections.Immutable.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Console.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Globalization.Calendars.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.Compression.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.FileSystem.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Net.Http.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Net.Sockets.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Reflection.Metadata.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.ValueTuple.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XPath.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\vbc.exe
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\vbc.exe.config
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\vbc.rsp
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\VBCSCompiler.exe
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\roslyn\VBCSCompiler.exe.config
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\System.Data.SqlClient.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\System.Data.SqlClient.xml
+D:\Backup\VS\CarrerEngine\CarrerEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Backup\VS\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.AssemblyReference.cache
+D:\Backup\VS\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.CoreCompileInputs.cache
+D:\Backup\VS\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.CopyComplete
+D:\Backup\VS\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.dll
+D:\Backup\VS\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.pdb
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.dll.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.pdb
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.exe
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.exe.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.rsp
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.exe
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.exe.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.rsp
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Managed.Core.targets
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.AppContext.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Collections.Immutable.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Console.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Globalization.Calendars.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.Compression.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.FileSystem.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Net.Http.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Net.Sockets.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Reflection.Metadata.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.ValueTuple.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XmlDocument.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XPath.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.exe
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.exe.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.rsp
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\VBCSCompiler.exe
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\VBCSCompiler.exe.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\System.Data.SqlClient.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\System.Data.SqlClient.xml
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.AssemblyReference.cache
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.CoreCompileInputs.cache
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 4\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.pdb
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.dll.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.pdb
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.exe
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.exe.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.rsp
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.exe
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.exe.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.rsp
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.AppContext.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Collections.Immutable.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Console.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Globalization.Calendars.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.Compression.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.FileSystem.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Net.Http.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Net.Sockets.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Reflection.Metadata.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.ValueTuple.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XPath.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.exe
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.exe.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.rsp
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\VBCSCompiler.exe
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\VBCSCompiler.exe.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\System.Data.SqlClient.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\System.Data.SqlClient.xml
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.AssemblyReference.cache
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.CoreCompileInputs.cache
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.CopyComplete
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.pdb
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.dll.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.pdb
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.exe
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.exe.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.rsp
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.exe
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.exe.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.rsp
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Managed.Core.targets
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.AppContext.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Collections.Immutable.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Console.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Globalization.Calendars.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.Compression.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.FileSystem.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Net.Http.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Net.Sockets.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Reflection.Metadata.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.ValueTuple.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XmlDocument.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XPath.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.exe
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.exe.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.rsp
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\VBCSCompiler.exe
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\VBCSCompiler.exe.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\System.Data.SqlClient.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\System.Data.SqlClient.xml
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.AssemblyReference.cache
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.CoreCompileInputs.cache
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 6\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.pdb
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.dll.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.pdb
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.exe
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.exe.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.rsp
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.exe
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.exe.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.rsp
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.AppContext.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Collections.Immutable.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Console.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Globalization.Calendars.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.Compression.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.FileSystem.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Net.Http.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Net.Sockets.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Reflection.Metadata.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.ValueTuple.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XPath.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.exe
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.exe.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.rsp
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\VBCSCompiler.exe
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\VBCSCompiler.exe.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\System.Data.SqlClient.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\System.Data.SqlClient.xml
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.AssemblyReference.cache
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.CoreCompileInputs.cache
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.CopyComplete
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngine31102022\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.pdb
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.dll.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.pdb
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.exe
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.exe.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.rsp
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.exe
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.exe.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.rsp
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Managed.Core.targets
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.AppContext.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Collections.Immutable.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Console.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Globalization.Calendars.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.Compression.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.FileSystem.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Net.Http.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Net.Sockets.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Reflection.Metadata.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.ValueTuple.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XmlDocument.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XPath.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.exe
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.exe.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.rsp
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\VBCSCompiler.exe
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\VBCSCompiler.exe.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\System.Data.SqlClient.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\System.Data.SqlClient.xml
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.AssemblyReference.cache
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.CoreCompileInputs.cache
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\DEMO 8\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.pdb
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.dll.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.pdb
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.exe
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.exe.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.rsp
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.exe
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.exe.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.rsp
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.AppContext.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Collections.Immutable.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Console.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Globalization.Calendars.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.Compression.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.FileSystem.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Net.Http.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Net.Sockets.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Reflection.Metadata.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.ValueTuple.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XPath.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.exe
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.exe.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.rsp
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\VBCSCompiler.exe
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\VBCSCompiler.exe.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\System.Data.SqlClient.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\System.Data.SqlClient.xml
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.AssemblyReference.cache
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.CoreCompileInputs.cache
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.CopyComplete
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\CarrerEngineLatest\CarrerEngine\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.pdb
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\CarrerEngine.dll.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\CarrerEngine.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\CarrerEngine.pdb
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\csc.exe
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\csc.exe.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\csc.rsp
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\csi.exe
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\csi.exe.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\csi.rsp
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.AppContext.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Collections.Immutable.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Console.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Globalization.Calendars.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.Compression.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.FileSystem.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Net.Http.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Net.Sockets.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Reflection.Metadata.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.ValueTuple.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XPath.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\vbc.exe
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\vbc.exe.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\vbc.rsp
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\VBCSCompiler.exe
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\roslyn\VBCSCompiler.exe.config
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\System.Data.SqlClient.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\System.Data.SqlClient.xml
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.AssemblyReference.cache
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.CoreCompileInputs.cache
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.CopyComplete
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.dll
+D:\Backup\Pending Assignments\Sanjay Personal DB Web\2 test\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.pdb
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.dll.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\CarrerEngine.pdb
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.exe
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.exe.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csc.rsp
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.exe
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.exe.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\csi.rsp
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Managed.Core.targets
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.AppContext.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Collections.Immutable.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Console.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Globalization.Calendars.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.Compression.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.FileSystem.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Net.Http.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Net.Sockets.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Reflection.Metadata.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.ValueTuple.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XmlDocument.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XPath.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.exe
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.exe.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\vbc.rsp
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\VBCSCompiler.exe
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\roslyn\VBCSCompiler.exe.config
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\System.Data.SqlClient.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\System.Data.SqlClient.xml
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.AssemblyReference.cache
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.CoreCompileInputs.cache
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.csproj.CopyComplete
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.dll
+F:\$DESKTOP$\FALL 2022 COURSES\Grad Seminar\CODE\MAIN\CarrerEngine\CarrerEngine\CarrerEngine\obj\Debug\CarrerEngine.pdb
